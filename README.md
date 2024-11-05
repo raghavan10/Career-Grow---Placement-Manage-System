@@ -46,36 +46,45 @@
    git clone <repository-url>
    cd career-grow
 
-Set Up the Backend---------
+2. **Set Up the Backend**
 
-Navigate to the backend directory:
-cd backend
+- Navigate to the backend directory:
+    ```bash
+    cd backend
+    ```
+- Run the Spring Boot application:
+    ```bash
+    ./mvnw spring-boot:run
+    ```
 
-Run the Spring Boot application:
-./mvnw spring-boot:run
+3. **Set Up the Frontend**
 
-Set Up the Frontend---------
+- Navigate to the frontend directory:
+    ```bash
+    cd frontend
+    ```
 
-Navigate to the frontend directory:
-cd frontend
+- Install dependencies:
+    ```bash
+    npm install
+    ```
 
-Install dependencies:
-npm install
+- Run the React application:
+    ```bash
+    npm start
+    ```
 
-Run the React application:
-npm start
-
-Usage
+## Usage
 -Access the admin, college, and company dashboards via the respective URLs provided in your frontend application.
 -Use the admin dashboard to manage colleges and companies.
 -Colleges can add student information and request permissions.
 -Companies can view college and student information after obtaining admin approval.
 
-Contribution
+## Contribution
 Contributions are welcome! If you have suggestions for improvements or features, please feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+## Contact
 For inquiries, please contact Ronit V Raghavan.
