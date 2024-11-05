@@ -1,4 +1,4 @@
-# Career Grow
+ # Career Grow
 
 ## Overview
 **Career Grow** is a placement management system designed to facilitate communication and management between colleges and companies. The platform allows admins, colleges, and companies to interact seamlessly to manage student details and schedule placement drives.
@@ -77,10 +77,10 @@
     ```
 
 ## Usage
--Access the admin, college, and company dashboards via the respective URLs provided in your frontend application.
--Use the admin dashboard to manage colleges and companies.
--Colleges can add student information and request permissions.
--Companies can view college and student information after obtaining admin approval.
+- Access the admin, college, and company dashboards via the respective URLs provided in your frontend application.
+- Use the admin dashboard to manage colleges and companies.
+- Colleges can add student information and request permissions.
+- Companies can view college and student information after obtaining admin approval.
 
 ## Contribution
 Contributions are welcome! If you have suggestions for improvements or features, please feel free to open an issue or submit a pull request.
