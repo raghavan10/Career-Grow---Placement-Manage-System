@@ -3,6 +3,8 @@
 ## Overview
 **Career Grow** is a placement management system designed to facilitate communication and management between colleges and companies. The platform allows admins, colleges, and companies to interact seamlessly to manage student details and schedule placement drives.
 
+**Note** - "Group4_Ronit_PlacementManagement" folder consists of the complete Java Spring Boot backend 
+
 ## Features
 - **Admin Dashboard**: 
   - Manage operational permissions for colleges and companies.
