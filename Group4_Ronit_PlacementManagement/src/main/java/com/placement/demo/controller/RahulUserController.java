@@ -53,7 +53,7 @@ public class RahulUserController {
 	//Create operation
 	@PostMapping("/users")
 	public void add(@RequestBody RahulUser user) {
-		System.out.println("shata"+user);
+		System.out.println("my"+user);
 		userservice.create(user);
 	}
 	
